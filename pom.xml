@@ -4,7 +4,7 @@
 
     <groupId>org.example</groupId>
     <artifactId>lib-quantum-sum</artifactId>
-    <version>1.0.1</version>
+    <version>1.0.2-SNAPSHOT</version>
 
     <properties>
         <maven.compiler.source>21</maven.compiler.source>
@@ -14,7 +14,7 @@
     <scm>
         <url>https://github.com/collengine/lib-quantum-sum</url>
         <connection>scm:git:https://github.com/collengine/lib-quantum-sum.git</connection>
-        <tag>lib-quantum-sum-1.0.1</tag>
+        <tag>lib-quantum-sum-1.0.0</tag>
     </scm>
     <distributionManagement>
         <repository>
